@@ -1,4 +1,4 @@
-# project
+# Project
 
 ## ✨ **Tabular-playground-series-jun 2021(Kaggle)**  
 - **언어 및 작업툴**: Jupyter Notebook(Python)
