@@ -1,6 +1,6 @@
 # Project
 
-## ✨ **Home_Credit_kaggle(Kaggle)**  
+## ✨ **Home Credit (Kaggle)**  
 - **언어 및 작업툴**: Jupyter Notebook(Python)
 - **인원**: 1인  
 - **기간**: 2021.06.22 - 2020.06.30  
