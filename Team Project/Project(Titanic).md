@@ -1,6 +1,3 @@
-
-
-## Team Project ##
 ![1](https://user-images.githubusercontent.com/81011613/125217339-56735600-e2fb-11eb-9693-c87762b550ff.png)
 ![2](https://user-images.githubusercontent.com/81011613/125217841-9be45300-e2fc-11eb-896d-7c972c7917b1.png)
 ![3](https://user-images.githubusercontent.com/81011613/125217852-a1da3400-e2fc-11eb-806f-00863e23a3f4.png)
