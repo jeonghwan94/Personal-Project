@@ -35,24 +35,39 @@
 → https://github.com/jeonghwan94/Project/blob/master/Personal%20Project%201/Home_Credit_kaggle.ipynb
 
 
-## ✨ **코로나 관련 데이터 분석 (Kaggle)**  
+## ✨ **서울시 코로나19 확진자 현황 분석(공공데이터포털)**  
 - **언어 및 작업툴**: Jupyter Notebook(Python)
 - **인원**: 1인
-- **기간**: 2021.08.02 - 2020.08.09  
+- **기간**: 2021.08.02 - 2020.08.06  
 
-- **내용**: 갑자기 증가한 코로나
+- **내용**: 서울시 코로나19 확진자 현황 데이터를 분석하여 유의미한 정보 도출
 
 - **기여**
 - 데이터 전처리(모델링)
 - 시각화
 - 퀴주 풀이 후 문제 제출  
 
-- **결과**: 앨리스 인공지능 과정을 배우면서 거쳤던 프로젝트 내용을 가져왔습니다.(베포 목적으로 하는건 아닙니다)
+- **결과**: 앨리스 인공지능 기본과정에서 실행한 프로젝트 내용을 가져왔습니다.(베포 금지)
 
-→ 
+→https://github.com/jeonghwan94/Project/blob/master/Personal%20Project%203/%5Bp1%5D_%EC%BD%94%EB%A1%9C%EB%82%98_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%B6%84%EC%84%9D_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.ipynb
 
 
 
+## ✨ **유가 데이터를 활용한 주유소 시장 분석(공공데이터 포털)**  
+- **언어 및 작업툴**: Jupyter Notebook(Python)
+- **인원**: 1인
+- **기간**: 2021.08.9 - 2020.08.13  
+
+- **내용**: 서울시 코로나19 확진자 현황 데이터를 분석하여 유의미한 정보 도출
+
+- **기여**
+- 데이터 전처리(모델링)
+- 시각화
+- 퀴주 풀이 후 문제 제출  
+
+- **결과**: 앨리스 인공지능 기본과정에서 실행한 프로젝트 내용을 가져왔습니다.(베포 금지)
+
+→https://github.com/jeonghwan94/Project/blob/master/Personal%20Project%203/%5Bp1%5D_%EC%BD%94%EB%A1%9C%EB%82%98_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%B6%84%EC%84%9D_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.ipynb
 
 
 <br>
