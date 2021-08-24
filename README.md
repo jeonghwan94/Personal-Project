@@ -67,7 +67,7 @@
 
 - **결과**: 앨리스 인공지능 기본과정에서 실행한 프로젝트 내용을 가져왔습니다.(베포 금지)
 
-→https://github.com/jeonghwan94/Project/blob/master/Personal%20Project%203/%5Bp1%5D_%EC%BD%94%EB%A1%9C%EB%82%98_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%B6%84%EC%84%9D_%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.ipynb
+→https://github.com/jeonghwan94/Project/blob/master/Personal%20Project%204/%5Bp4%5D_%EC%9C%A0%EA%B0%80_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC_%ED%99%9C%EC%9A%A9%ED%95%9C_%EC%A3%BC%EC%9C%A0%EC%86%8C_%EC%8B%9C%EC%9E%A5%EB%B6%84%EC%84%9D.ipynb
 
 
 <br>
