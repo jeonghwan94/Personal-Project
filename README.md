@@ -11,7 +11,8 @@
 
 - **결과**: 전체 참가 팀 50169 / 324등(Top 1%)
 
-→ 
+→ https://www.notion.so/07cd610daf3241d295e13ba39274dbcd
+(밑에 내용은 노션에 기재해 두었습니다 참고 바랍니다 :) )
 
 
 ## ✨ **Titanic Team Project(Kaggle)**  
