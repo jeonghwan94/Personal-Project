@@ -32,7 +32,7 @@
 
 - **결과**: 전체 참가 팀 1137 / 37등(Top 4%)
 
-→ 
+→ https://github.com/jeonghwan94/Project/blob/master/Tabular%20Playground%20Series%20Jun-2021/keras.ipynb
 <br>
 
 ## ✨ **Home Credit (Kaggle)**  
