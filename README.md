@@ -65,9 +65,9 @@
 
 ## ✨ **Home Credit (Kaggle)**  
 
-**언어 및 작업툴**: Python(Jupyter Notebook)
+**언어 및 작업툴**: Python(Google colab)
 
-**인원**: 1인  
+**인원**: 1인
 
 **기간**: 2021.06.01 - 2021.06.11.(9일)
 
