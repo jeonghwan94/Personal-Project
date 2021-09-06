@@ -20,7 +20,7 @@
 
 ## ✨ **Titanic Team Project(Kaggle)**  
 
-**언어 및 작업툴**: Kaggle Notebook(kernel)
+**언어 및 작업툴**: Python(Kaggle Notebook(kernel)) , Tableau
 
 **인원**: 4인  
 
@@ -30,6 +30,7 @@
 
 **기여**
 - 데이터 전처리(모델링)
+- 알고리즘 테스트(LightGBM 하이퍼파라미터 튜닝)
 - 제출 파일 CSV 변형 후 제출  
 
 **결과**: 전체 참가 팀 50169 / 324등(Top 1%)
