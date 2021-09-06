@@ -80,8 +80,7 @@
 - 모델링
 - 최종 결과 리포팅
 
-**결과**: 개인적으로 호기심 때문에 분석 작업을 했던 내용이어서 자료는 대회에 제출하지 않았습니다.
-
+**결과**: 
 → https://github.com/jeonghwan94/Project/blob/master/Personal%20Project%201/Home_Credit_kaggle.ipynb
 
 <br>
