@@ -15,8 +15,8 @@
 
 **결과**: 실시간으로 장비 불량에 대한 대처로 인해 업무 효율성 증대
 
-→ https://www.notion.so/07cd610daf3241d295e13ba39274dbcd
-(밑에 내용은 노션에 기재해 두었습니다 참고 바랍니다 :) )
+→ [세부 사항은 `클릭`을 부탁드립니다.](https://www.notion.so/07cd610daf3241d295e13ba39274dbcd)
+(이번 프로젝트 내용은 노션에 기재해 두었습니다 참고 바랍니다 :) )
 
 
 ## ✨ **Titanic Team Project(Kaggle)**  
@@ -37,7 +37,7 @@
 
 **결과**: 전체 참가 팀 50169 / 324등(Top 1%)
 
-→ https://github.com/jeonghwan94/Project/blob/master/Team%20Project/Kaggle%20Titanic%20Team%20Project.pdf
+→ [세부 사항은 `클릭`을 부탁드립니다.](https://github.com/jeonghwan94/Project/blob/master/Team%20Project/Kaggle%20Titanic%20Team%20Project.pdf)
 
 
 # Personal Project #
@@ -60,7 +60,7 @@
 
 **결과**: 전체 참가 팀 1137 / 37등(Top 4%)
 
-→ https://github.com/jeonghwan94/Project/blob/master/Tabular%20Playground%20Series%20Jun-2021/keras.ipynb
+→ [세부 사항은 `클릭`을 부탁드립니다.](https://github.com/jeonghwan94/Project/blob/master/Tabular%20Playground%20Series%20Jun-2021/keras.ipynb)
 <br>
 
 ## ✨ **Home Credit (Kaggle)**  
@@ -80,8 +80,18 @@
 - 모델링
 - 최종 결과 리포팅
 
-**결과**: 
-→ https://github.com/jeonghwan94/Project/blob/master/Personal%20Project%201/Home_Credit_kaggle.ipynb
+**결과**: 대출 상환 기간이 상환여부에 가장 큰 영향을 준다. 해당 영향을 비선형적 관계입니다.
+
+(영향이 크다고 해서 인과관계가 있다고 단정짓긴 어렵습니다.)
+
+
+주택 보유 여부와 자식의 수는 대출 상환능력에 큰 영향을 미치지 않습니다.
+
+최근에 취업했을 수록, 최근에 대출을 받았을수록, 최근에 핸드폰을 바꿨을 수록, 나이가 어릴수록 대출금 상환 가능성이 낮은 지표를 보입니다.
+
+(추가적으로 DAYS_EMPLOYED, DAYS_CREDIT, DAYS_LAST_PHONE_CHANGE, DAYS_BIRTH 가 클수록 대출금 상환 가능성이 낮아지는 것을 확인할 수 있습니다.)
+
+→ [세부 사항은 `클릭`을 부탁드립니다.](https://github.com/jeonghwan94/Project/blob/master/Personal%20Project%201/Home_Credit_kaggle.ipynb)
 
 <br>
  
