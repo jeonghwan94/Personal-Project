@@ -42,7 +42,7 @@
 
 ## ✨ **Tabular Playground Series Jun-2021 (Kaggle)**  
 
-**언어 및 작업툴**: Jupyter Notebook(Python)
+**언어 및 작업툴**: Python(Kaggle Notebook(kernel))
 
 **인원**: 1인  
 
